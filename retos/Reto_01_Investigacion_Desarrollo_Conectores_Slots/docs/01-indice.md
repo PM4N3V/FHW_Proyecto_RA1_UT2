@@ -21,7 +21,7 @@
 - 6.1 [PCIe x1/x4/x8](12-slots_expansion/fichas/pcie_1_4_8.md)
 - 6.2 [PCIe x16](12-slots_expansion/fichas/pcie_x16.md)
 - 6.3 [M.2 slot](12-slots_expansion/fichas/slot_m2.md)<br>
-7. Conectores externos — [`20-conectores_externos/`](20-conectores_externos/README.md)  
+7. [Conectores externos](20-conectores_externos/README.md)  
 
 - 7.1 [USB-C/USB4](20-conectores_externos/fichas/usb_c.md)
 - 7.2 [USB-A 2.0/3.x,USB-B](20-conectores_externos/fichas/usb_a_2-3x.md)
