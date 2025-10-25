@@ -13,7 +13,7 @@
 - Ideal para edición de vídeo, videojuegos y usos que requieren alto rendimiento
 
 ## Fotos
-![Cable SATA](../../../assets/img/11-conectores_datos/nvme.png)
+![NVMe SATA](../../../assets/img/11-conectores_datos/nvme.png)
 
 ## Fuentes
 - [https://www.chuwi.com](https://www.chuwi.com/es/news/items/2834.html)
