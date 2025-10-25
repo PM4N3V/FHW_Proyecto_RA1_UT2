@@ -16,5 +16,4 @@
 ![ATX 24p](../../../assets/img/10-conectores_internos/atx-24-pin.png)
 
 ## Fuentes
-- [https://www.profesionalreview.com](https://www.profesionalreview.com/2018/11/10/alimentacion-atx-24-pines-eps/)/
-- retos/Reto_01_Investigacion_Desarrollo_Conectores_Slots/
+- [https://www.profesionalreview.com](https://www.profesionalreview.com/2018/11/10/alimentacion-atx-24-pines-eps/)
