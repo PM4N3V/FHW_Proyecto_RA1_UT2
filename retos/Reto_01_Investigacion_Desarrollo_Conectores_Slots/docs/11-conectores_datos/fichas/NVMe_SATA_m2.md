@@ -1,7 +1,7 @@
 
 # Conector de datos: NVMe M.2 / SATA M.2 
 
-**Descripción breve:** Interfaz de datos en serie para conectar SSD.<br>
+**Descripción breve:** Interfaz de datos en serie para SATA y paralelelo para NVMe para conectar SSD.<br>
 **Pines/Carriles/Voltajes/Velocidad:** Velocidad NVMe 5.0 PCIe hasta 15,76 GB/s /// SATA M.2 en version SATA III hasta 6GB/s<br>
 **Uso principal:** Conexión de almacenamiento interno común <br>
 **Compatibilidad actual:** <br>
