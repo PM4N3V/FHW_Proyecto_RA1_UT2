@@ -13,7 +13,7 @@
 - Importante guiarse de la forma para saber el lado de conexion correctos.
 
 ## Fotos
-![SATA Power](../../../assets/img/10-conectores_internos/sata_powers.png)
+![SATA Power](../../../assets/img/10-conectores_internos/sata_power.png)
 
 ## Fuentes
 - [https://ibericavip.com](https://ibericavip.com/blog/pc-workstation/guia-para-principiantes-sobre-cables-sata-todo-lo-que-necesitas-saber/)
