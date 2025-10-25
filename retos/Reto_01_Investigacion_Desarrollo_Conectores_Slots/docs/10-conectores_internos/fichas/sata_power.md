@@ -1,9 +1,12 @@
 
 # Conector: SATA Alimentacion
 
-**Descripción breve:** Alimenta unidades de almacenamiento (HDD y SSD)   
+**Descripción breve:** Alimenta unidades de almacenamiento (HDD y SSD) 
+
 **Pines/Carriles/Voltajes/Velocidad:** 15 pines · +3.3V, +5V, +12V,hasta 54W  
+
 **Uso principal:** Alimentación de la disco duros HDD y SDD.  
+
 **Compatibilidad actual:** Alta
 
 ## Identificación física
