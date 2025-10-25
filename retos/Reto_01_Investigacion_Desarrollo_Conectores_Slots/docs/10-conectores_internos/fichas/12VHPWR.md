@@ -1,12 +1,9 @@
 
 # Conector: 12VHPWR 12+4 pins o  12V-2x6
 
-**Descripción breve:** Conector principal que alimenta graficas de ultima generacion.
-
-**Pines/Carriles/Voltajes/Velocidad:** 12 + 4 pines o 2 de 6 pines,12V
-
-**Uso principal:** Alimentación de grafica
-
+**Descripción breve:** Conector principal que alimenta graficas de ultima generacion.<br> 
+**Pines/Carriles/Voltajes/Velocidad:** 12 + 4 pines o 2 de 6 pines,12V<br> 
+**Uso principal:** Alimentación de grafica<br> 
 **Compatibilidad actual:** Alta para: 12V-2x6 version PCIe 5.1
 
 ## Identificación física
