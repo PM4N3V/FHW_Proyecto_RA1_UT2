@@ -1,5 +1,5 @@
 
-# Proyecto_RA1_UT1 — Fundamentos de Hardware (ASIR)
+# Proyecto_RA1_UT2 — Fundamentos de Hardware (ASIR)
 
 Estructura orientada a **retos** del RA1 (UT1). Flujo único por reto:
 1) Crear **fichas** con la plantilla de cada sección.
