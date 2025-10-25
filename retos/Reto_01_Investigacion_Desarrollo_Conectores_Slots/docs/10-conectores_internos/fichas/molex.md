@@ -14,7 +14,7 @@
 - Hay machos y hembas.
 
 ## Fotos
-![ATX 24p](../../../assets/img/10-conectores_internos/molex.png)
+![Molex](../../../assets/img/10-conectores_internos/molex.png)
 
 ## Fuentes
 - [https://www.profesionalreview.com](https://www.profesionalreview.com/2019/12/31/conector-molex-todo-lo-que-necesitas-saber/)
