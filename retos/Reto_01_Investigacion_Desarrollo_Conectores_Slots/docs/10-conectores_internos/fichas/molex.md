@@ -2,8 +2,11 @@
 # Conector: Molex
 
 **Descripción breve:** Conector clásico utilizado para unidades IDE, ventiladores y otros periféricos.
+
 **Pines/Carriles/Voltajes/Velocidad:** 4 pines ·  +5V, +12V, hasta 134W.
-**Uso principal:** Alimentación de periféricos como ventiladores y unidades IDE  
+
+**Uso principal:** Alimentación de periféricos como ventiladores y unidades IDE
+
 **Compatibilidad actual:** Media (para antiguos equipos)
 
 ## Identificación física
