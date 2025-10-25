@@ -16,5 +16,5 @@
 ![Cable SAS](../../../assets/img/11-conectores_datos/sas.png)
 
 ## Fuentes
-- [https://es.wikipedia.org](https://es.wikipedia.org/wiki/Serial_Attached_SCSI)
+- [https://es.wikipedia.org](https://es.wikipedia.org/wiki/Serial_Attached_SCSI)<br>
 [https://blog.elhacker.net](https://blog.elhacker.net/2024/05/diferencias-unidades-disco-duro-sata-sas.html)
