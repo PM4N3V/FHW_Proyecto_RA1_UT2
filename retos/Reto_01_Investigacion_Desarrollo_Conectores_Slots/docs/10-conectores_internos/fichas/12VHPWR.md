@@ -13,7 +13,7 @@
 - Estándar 12VHPRW 2.0 version PCIe 5.0 obsoleto y reemplazado por 12V-2x6 para la version PCIe 5.1
 
 ## Fotos
-![12V-2x6 vs 12VHPWR](../../../assets/img/10-conectores_internos/12VHPWR-vs-12V-2x6.png)
+![12V-2x6 vs 12VHPWR](../../../assets/img/10-conectores_internos/12VHPWR-vs-12V-2x6.png "12V-2x6 vs 12VHPWR")
 
 ## Fuentes
 - [https://elchapuzasinformatico.com](https://elchapuzasinformatico.com/2023/09/conector-12v-2x6-vs-12vhpwr/)
