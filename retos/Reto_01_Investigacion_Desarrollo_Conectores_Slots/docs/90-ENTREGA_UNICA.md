@@ -110,7 +110,7 @@ Post nota: Apreciar el tiempo dedicado.
 - Ambos son intercambiables, solo que EPS12 nunca viene en 4+4.
 
 ## Fotos
-![EPS 8p (4+4)](../assets/img/10-conectores_internos/eps12v-8pin.png)
+![EPS 8p (4+4)](../assets/img/10-conectores_internos/eps12v-8pin.png "EPS 8p (4+4)")
 
 ## Fuentes
 - [https://www.reddit.com](https://www.reddit.com/r/buildapc/comments/6wez86/44pin_eps_vs_8_pin_eps/?tl=es-es)
@@ -130,7 +130,7 @@ Post nota: Apreciar el tiempo dedicado.
 - Hay machos y hembas.
 
 ## Fotos
-![Molex](../assets/img/10-conectores_internos/molex.png)
+![Molex](../assets/img/10-conectores_internos/molex.png "Molex")
 
 ## Fuentes
 - [https://www.profesionalreview.com](https://www.profesionalreview.com/2019/12/31/conector-molex-todo-lo-que-necesitas-saber/)
@@ -149,7 +149,7 @@ Post nota: Apreciar el tiempo dedicado.
 - Importante guiarse de la forma para saber el lado de conexion correctos.
 
 ## Fotos
-![SATA Power](../assets/img/10-conectores_internos/sata_alimentacion.png)
+![SATA Power](../assets/img/10-conectores_internos/sata_alimentacion.png "SATA Power")
 
 ## Fuentes
 - [https://ibericavip.com](https://ibericavip.com/blog/pc-workstation/guia-para-principiantes-sobre-cables-sata-todo-lo-que-necesitas-saber/) <br>
@@ -183,7 +183,7 @@ Post nota: Apreciar el tiempo dedicado.
 - Ideal para edición de vídeo, videojuegos y usos que requieren alto rendimiento
 
 ## Fotos
-![NVMe SATA](../assets/img/11-conectores_datos/nvme.png)
+![NVMe SATA](../assets/img/11-conectores_datos/nvme.png "NVMe SATA")
 
 ## Fuentes
 - [https://www.chuwi.com](https://www.chuwi.com/es/news/items/2834.html)
@@ -203,7 +203,7 @@ Post nota: Apreciar el tiempo dedicado.
 - Hot-swap , alto rendimiento, velocidad ,fiabilidad y durabilidad.
 
 ## Fotos
-![Cable SAS](../assets/img/11-conectores_datos/sas.png)
+![Cable SAS](../assets/img/11-conectores_datos/sas.png "Cable SAS")
 
 ## Fuentes
 - [https://es.wikipedia.org](https://es.wikipedia.org/wiki/Serial_Attached_SCSI)<br>
@@ -244,7 +244,7 @@ Post nota: Apreciar el tiempo dedicado.
 - Hot-swap según controladora; no lleva alimentación (va por conector SATA power).
 
 ## Fotos
-![interfaz U.2](../assets/img/11-conectores_datos/U2.png)
+![interfaz U.2](../assets/img/11-conectores_datos/U2.png "interfaz U.2")
 
 ## Fuentes
 - [https://hardzone.es](https://hardzone.es/reportajes/que-es/interfaz-u-2-ssd/)
@@ -268,7 +268,7 @@ Post nota: Apreciar el tiempo dedicado.
 - Ancho de banda efectivo depende de generación y carriles disponibles (CPU/Chipset).
 
 ## Fotos
-![PCIe](../assets/img/12-slots_expansion/pciex.png)
+![PCIe](../assets/img/12-slots_expansion/pciex.png "PCIe")
 
 ## Fuentes
 - [https://ibericavip.com](https://ibericavip.com/blog/pc-workstation/todos-los-tipos-de-ranuras-pcie-explicados-y-comparados/)
@@ -314,7 +314,7 @@ Post nota: Apreciar el tiempo dedicado.
 - Gen 7 en desarollo con velocidades de 31.52 GB/s a 60.50 GB/s .
 
 ## Fotos
-![M.2](../assets/img/12-slots_expansion/m2slot.png)
+![M.2](../assets/img/12-slots_expansion/m2slot.png "M.2")
 
 ## Fuentes
 - [https://hardzone.es](https://hardzone.es/tutoriales/rendimiento/velocidad-pci-express-pcie/)
