@@ -14,7 +14,7 @@
 - Ancho de banda efectivo depende de generación y carriles disponibles (CPU/Chipset).
 
 ## Fotos
-![PCIe](../../../assets/img/12-slots_expansion/pciex.png)
+![PCIe](../../../assets/img/12-slots_expansion/pciex.png "PCIe")
 
 ## Fuentes
 - [https://ibericavip.com](https://ibericavip.com/blog/pc-workstation/todos-los-tipos-de-ranuras-pcie-explicados-y-comparados/)
