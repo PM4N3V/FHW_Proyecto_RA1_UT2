@@ -13,7 +13,7 @@
 - Estándar ATX12V 2.x. No confundir con el EPS de CPU (4/8 pines).
 
 ## Fotos
-![ATX 24p](../../../assets/img/10-conectores_internos/atx-24-pin.png)
+![ATX 24p](../../../assets/img/10-conectores_internos/atx-24-pin.png "ATX 24p")
 
 ## Fuentes
 - [https://www.profesionalreview.com](https://www.profesionalreview.com/2018/11/10/alimentacion-atx-24-pines-eps/)
