@@ -36,7 +36,7 @@ Objetivo del reto: **identificar** y **explicar** conectores/slots **actuales** 
 
 # Conector: 12VHPWR 12+4 pins o  12V-2x6
 
-**Descripción breve:** Conector principal que alimenta graficas de ultima generacion.<br> 
+**Descripción breve:** Conector principal que alimenta graficas de ultima generacion.<br><br>
 **Pines/Carriles/Voltajes/Velocidad:** 12 + 4 pines o 2 de 6 pines,+12V, hasta 600W<br> 
 **Uso principal:** Alimentación de grafica<br> 
 **Compatibilidad actual:** Alta para: 12V-2x6 version PCIe 5.1
@@ -56,8 +56,8 @@ Objetivo del reto: **identificar** y **explicar** conectores/slots **actuales** 
 
 # Conector: PEG(PCI Express Graphics) de 6p y 8p
 
-**Descripción breve:** Diseñados para alimentar tarjetas gráficas dedicadas.<br> 
-**Pines/Carriles/Voltajes/Velocidad:** 6 o 8 pines,12V, hasta 150W(6p) 300W(8p) <br> 
+**Descripción breve:** Diseñados para alimentar tarjetas gráficas dedicadas.<br><br> 
+**Pines/Carriles/Voltajes/Velocidad:** 6 o 8 pines,+12V, hasta 150W(6p) 300W(8p) <br> 
 **Uso principal:** Alimentación de graficas<br> 
 **Compatibilidad actual:** Alta
 
@@ -76,7 +76,7 @@ Objetivo del reto: **identificar** y **explicar** conectores/slots **actuales** 
 
 # Conector: ATX de 24 pines
 
-**Descripción breve:** Conector principal que alimenta la placa base en sistemas ATX/ATX12V.  
+**Descripción breve:** Conector principal que alimenta la placa base en sistemas ATX/ATX12V.<br><br> 
 **Pines/Carriles/Voltajes/Velocidad:** 24 pines · +3.3V, +5V, +12V  
 **Uso principal:** Alimentación de la placa base  
 **Compatibilidad actual:** Alta
@@ -95,7 +95,7 @@ Objetivo del reto: **identificar** y **explicar** conectores/slots **actuales** 
 
 # Conector: EPS 8 pines (4+4)
 
-**Descripción breve:** Alimenta directamente a la CPU; se conecta cerca del socket.  
+**Descripción breve:** Alimenta directamente a la CPU; se conecta cerca del socket.<br><br>
 **Pines/Carriles/Voltajes/Velocidad:** 4 o 8 pines , +12V  
 **Uso principal:** Alimentación de la CPU 
 **Compatibilidad actual:** Alta
@@ -115,7 +115,7 @@ Objetivo del reto: **identificar** y **explicar** conectores/slots **actuales** 
 
 # Conector: Molex
 
-**Descripción breve:** Conector clásico utilizado para unidades IDE, ventiladores y otros periféricos.<br> 
+**Descripción breve:** Conector clásico utilizado para unidades IDE, ventiladores y otros periféricos.<br> <br>
 **Pines/Carriles/Voltajes/Velocidad:** 4 pines ·  +5V, +12V, hasta 134W.<br> 
 **Uso principal:** Alimentación de periféricos como ventiladores y unidades IDE<br> 
 **Compatibilidad actual:** Media (para antiguos equipos)
@@ -135,7 +135,7 @@ Objetivo del reto: **identificar** y **explicar** conectores/slots **actuales** 
 
 # Conector: SATA Alimentacion
 
-**Descripción breve:** Alimenta unidades de almacenamiento (HDD y SSD).<br> 
+**Descripción breve:** Alimenta unidades de almacenamiento (HDD y SSD).<br><br> 
 **Pines/Carriles/Voltajes/Velocidad:** 15 pines · +3.3V, +5V, +12V,hasta 54W  
 **Uso principal:** Alimentación de la disco duros HDD y SDD.  
 **Compatibilidad actual:** Alta
@@ -169,10 +169,10 @@ Objetivo del reto: **identificar** y **explicar** conectores/slots **actuales** 
 
 # Conector de datos: NVMe M.2 / SATA M.2 
 
-**Descripción breve:** Interfaz de datos en serie para SATA y paralelelo para NVMe para conectar SSD.<br>
+**Descripción breve:** Interfaz de datos en serie para SATA y paralelelo para NVMe para conectar SSD.<br><br>
 **Pines/Carriles/Voltajes/Velocidad:** Velocidad NVMe 5.0 PCIe hasta 15,76 GB/s /// SATA M.2 en version SATA III hasta 6GB/s<br>
 **Uso principal:** Conexión de almacenamiento interno común <br>
-**Compatibilidad actual:** <br>
+**Compatibilidad actual:** Alta <br>
 
 ## Identificación física
 - Conector plano , ranura con una muesca para NVMe M.2 o dos muescas para SATA M.2.
@@ -189,7 +189,7 @@ Objetivo del reto: **identificar** y **explicar** conectores/slots **actuales** 
 
 # Conector de datos: SAS (Serial Attached SCSI)
 
-**Descripción breve:** Interfaz de datos en serie para conectar HDD/SSD/.<br>
+**Descripción breve:** Interfaz de datos en serie para conectar HDD/SSD/.<br><br>
 **Pines/Carriles/Voltajes/Velocidad:** de 22 a 29 pines ·  (Conectores SFF-8482,SFF-8484) , SAS-4 22.5 Gbit/s<br>
 **Uso principal:** Conexión de almacenamiento en servidores.<br>  
 **Compatibilidad actual:** Alta
@@ -210,7 +210,7 @@ Objetivo del reto: **identificar** y **explicar** conectores/slots **actuales** 
 
 # Conector de datos: SATA (Serial ATA)
 
-**Descripción breve:** Interfaz de datos en serie para conectar HDD/SSD/unidades ópticas.  
+**Descripción breve:** Interfaz de datos en serie para conectar HDD/SSD/unidades ópticas.<br><br>  
 **Pines/Carriles/Voltajes/Velocidad:** 7 pines · 1.5/3/6 Gbps (SATA I/II/III)  
 **Uso principal:** Conexión de almacenamiento interno común  
 **Compatibilidad actual:** Alta
@@ -253,7 +253,7 @@ Objetivo del reto: **identificar** y **explicar** conectores/slots **actuales** 
 ## 4. Slots de expansión
 # Slot: PCI Express x1 x4 x8 (Gen4/Gen5/Gen6)
 
-**Descripción breve:** Ranura de expansión de altas prestaciones usada para GPUs/aceleradoras y otros componentes de ampliacion. <br> 
+**Descripción breve:** Ranura de expansión de altas prestaciones usada para GPUs/aceleradoras y otros componentes de ampliacion. <br> <br>
 **Pines/Carriles/Voltajes/Velocidad:** x1 x4 x8 carriles ·<br>x1 Gen4 1969MB/s Gen5 3.94 GB/s Gen6 7.56 GB/s <br>x4 Gen4 7876MB/s Gen5 15.75 GB/s Gen6 30.25 GB/s <br>x8 Gen4 15752MB/s Gen5 31.5 GB/s Gen6 60.5 GB/s
 
 **Uso principal:** Tarjetas gráficas; también aceleradoras y NVMe en adaptador  
@@ -278,7 +278,7 @@ Objetivo del reto: **identificar** y **explicar** conectores/slots **actuales** 
 
 # Slot: PCI Express x16 (Gen4/Gen5/Gen6)
 
-**Descripción breve:** Ranura de expansión de altas prestaciones usada para GPUs/aceleradoras.  
+**Descripción breve:** Ranura de expansión de altas prestaciones usada para GPUs/aceleradoras.<br><br>  
 **Pines/Carriles/Voltajes/Velocidad:** x16 carriles · Gen4 16 GT/s · Gen5 32 GT/s  Gen6 121 GB/s<br>
 **Uso principal:** Tarjetas gráficas; también aceleradoras y NVMe en adaptador  
 **Compatibilidad actual:** Alta
@@ -301,7 +301,7 @@ Objetivo del reto: **identificar** y **explicar** conectores/slots **actuales** 
 
 # Slot: M.2 
 
-**Descripción breve:** Ranura de expansión de altas prestaciones usada para SSD y tarjetas de red Wi-Fi y Bluetoth.<br>  
+**Descripción breve:** Ranura de expansión de altas prestaciones usada para SSD y tarjetas de red Wi-Fi y Bluetoth.<br> <br> 
 **Pines/Carriles/Voltajes/Velocidad:** x2 o x4 carriles PCIe <br>· Gen4 3.94 GB/s a 7.88 GB/s<br> · Gen5 7.88 GB/s a 15.76 GB/s <br>· Gen6 15.125 GB/s a 31.52 GB/s <br>
 **Uso principal:** Memoria SSD , Tarjetas de Red.<br>
 **Compatibilidad actual:** Alta
@@ -325,7 +325,7 @@ Objetivo del reto: **identificar** y **explicar** conectores/slots **actuales** 
 ## 5. Conectores externos
 # Conector externo: DisplayPort 1.4-2.x
 
-**Descripción breve:** interfaz digital moderna diseñada para transmitir tanto video como audio de alta calidad.
+**Descripción breve:** interfaz digital moderna diseñada para transmitir tanto video como audio de alta calidad.<br><br>
 **Pines/Carriles/Voltajes/Velocidad:**  1.4  8K a 60 Hz, 2.0 16k a 60Hz o 8k a 120Hz
 **Uso principal:** común en monitores, ordenadores y tarjetas gráficas, especialmente en entornos profesionales y de gaming<br>  
 **Compatibilidad actual:** Alta
@@ -344,7 +344,7 @@ Objetivo del reto: **identificar** y **explicar** conectores/slots **actuales** 
 
 # Conector externo: HDMI (High-Definition Multimedia Interface) 2.1/2.2
 
-**Descripción breve:** Estándar para la transmisión de señales de video y audio de alta calidad.<br>
+**Descripción breve:** Estándar para la transmisión de señales de video y audio de alta calidad.<br><br>
 **Pines/Carriles/Voltajes/Velocidad:**<br> HDMI 2.1 48 Gbps 8K a 120 Hz<br>
 HDMI 2.2 96 Gbps 12K a 120 Hz, o 4K a 480 fps<br>
 **Uso principal:** Transmitir video y audio digital a monitores, televisores o proyectores. <br>
@@ -368,7 +368,7 @@ HDMI 2.2 96 Gbps 12K a 120 Hz, o 4K a 480 fps<br>
 
 # Conector externo: RJ-45 (ethernet)
 
-**Descripción breve:** RJ-45 es un estándar para conexiones de red cableadas (Ethernet)<br>  
+**Descripción breve:** RJ-45 es un estándar para conexiones de red cableadas (Ethernet)<br><br>
 **Pines/Carriles/Voltajes/Velocidad:** 8pines, 100Mbps , 1Gbps , 10Gbps <br>
 **Uso principal:** Conectar el ordenador a redes locales o Internet. 
 **Compatibilidad actual:** Alta 
@@ -387,7 +387,7 @@ HDMI 2.2 96 Gbps 12K a 120 Hz, o 4K a 480 fps<br>
 
 # Conector externo: USB-A 
 
-**Descripción breve:** Conector USB clásico, el más común en ordenadores y periféricos.<br>
+**Descripción breve:** Conector USB clásico, el más común en ordenadores y periféricos.<br><br>
 **Pines/Carriles/Voltajes/Velocidad:** USB 3.0 0.5A , USB 3.1 0.9A , 5V<br>
 **Uso principal:** Ratones, teclados, discos externos, memorias USB.<br>  
 **Compatibilidad actual:** Alta 
@@ -408,7 +408,7 @@ HDMI 2.2 96 Gbps 12K a 120 Hz, o 4K a 480 fps<br>
 
 # Conector externo: USB-B 
 
-**Descripción breve:** Menos común en dispositivos personales; típico en equipos más grandes.<br>
+**Descripción breve:** Menos común en dispositivos personales; típico en equipos más grandes.<br><br>
 **Pines/Carriles/Voltajes/Velocidad:** 5V , 0.5a <br>
 **Uso principal:** Impresoras, escáneres, dispositivos industriales <br>
 **Compatibilidad actual:** Media
@@ -428,7 +428,7 @@ HDMI 2.2 96 Gbps 12K a 120 Hz, o 4K a 480 fps<br>
 
 # Conector externo: USB-C (USB4/PD)
 
-**Descripción breve:** Conector reversible para datos, vídeo y alimentación (PD).  
+**Descripción breve:** Conector reversible para datos, vídeo y alimentación (PD).<br><br>
 **Pines/Carriles/Voltajes/Velocidad:** 24 pines · USB4 hasta 40 Gbps · PD hasta 100–240 W (según perfil)  
 **Uso principal:** Carga y conexión de periféricos/monitores/docks  
 **Compatibilidad actual:** Alta (ojo: no todo USB-C soporta TB/PD)
@@ -449,7 +449,7 @@ HDMI 2.2 96 Gbps 12K a 120 Hz, o 4K a 480 fps<br>
 
 # Conector externo: VGA Video Graphics Array
 
-**Descripción breve:** interfaz analogica de video.<br>
+**Descripción breve:** interfaz analogica de video.<br><br>
 **Pines/Carriles/Voltajes/Velocidad:** señal analogica, Hasta 2048 × 1536<br>
 **Uso principal:** Monitores, proyectores, televisores antiguos<br>  
 **Compatibilidad actual:** Media (Equipos antiguos)
