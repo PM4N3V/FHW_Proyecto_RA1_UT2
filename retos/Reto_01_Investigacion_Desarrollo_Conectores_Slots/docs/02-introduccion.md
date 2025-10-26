@@ -6,3 +6,5 @@ Piensa el PC como una **ciudad**:
 - **Slots** = **parcelas** para ampliar (tarjetas).
 
 Objetivo del reto: **identificar** y **explicar** conectores/slots **actuales** y, si procede, **legacy** aún en uso.
+
+Post nota: Apreciar el tiempo dedicado.
