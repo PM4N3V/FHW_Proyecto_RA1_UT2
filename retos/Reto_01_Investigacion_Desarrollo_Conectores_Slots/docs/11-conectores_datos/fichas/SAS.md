@@ -3,7 +3,7 @@
 
 **Descripción breve:** Interfaz de datos en serie para conectar HDD/SSD/.<br>
 **Pines/Carriles/Voltajes/Velocidad:** de 22 a 29 pines ·  (Conectores SFF-8482,SFF-8484) , SAS-4 22.5 Gbit/s<br>
-**Uso principal:** Conexión de almacenamiento en servidores.<br>  
+**Uso principal:** Conexión de almacenamiento en servidores.  
 **Compatibilidad actual:** Alta
 
 ## Identificación física
