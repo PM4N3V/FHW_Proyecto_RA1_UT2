@@ -13,7 +13,7 @@
 - Hot-swap , alto rendimiento, velocidad ,fiabilidad y durabilidad.
 
 ## Fotos
-![Cable SAS](../../../assets/img/11-conectores_datos/sas.png)
+![Cable SAS](../../../assets/img/11-conectores_datos/sas.png "Cable SAS")
 
 ## Fuentes
 - [https://es.wikipedia.org](https://es.wikipedia.org/wiki/Serial_Attached_SCSI)<br>
