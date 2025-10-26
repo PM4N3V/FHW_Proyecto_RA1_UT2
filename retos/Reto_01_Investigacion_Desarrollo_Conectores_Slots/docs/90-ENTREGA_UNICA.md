@@ -97,7 +97,7 @@ Objetivo del reto: **identificar** y **explicar** conectores/slots **actuales** 
 
 **Descripción breve:** Alimenta directamente a la CPU; se conecta cerca del socket.<br><br>
 **Pines/Carriles/Voltajes/Velocidad:** 4 o 8 pines , +12V  
-**Uso principal:** Alimentación de la CPU 
+**Uso principal:** Alimentación de la CPU <br>
 **Compatibilidad actual:** Alta
 
 ## Identificación física
