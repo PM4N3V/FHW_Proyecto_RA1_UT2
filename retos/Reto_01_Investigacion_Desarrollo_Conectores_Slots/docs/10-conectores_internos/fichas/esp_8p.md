@@ -13,7 +13,7 @@
 - Ambos son intercambiables, solo que EPS12 nunca viene en 4+4.
 
 ## Fotos
-![EPS 8p (4+4)](../../../assets/img/10-conectores_internos/eps12v-8pin.png)
+![EPS 8p (4+4)](../../../assets/img/10-conectores_internos/eps12v-8pin.png "EPS 8p (4+4)")
 
 ## Fuentes
 - [https://www.reddit.com](https://www.reddit.com/r/buildapc/comments/6wez86/44pin_eps_vs_8_pin_eps/?tl=es-es)
