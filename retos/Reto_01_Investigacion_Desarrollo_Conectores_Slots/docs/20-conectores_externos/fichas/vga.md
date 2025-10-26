@@ -3,7 +3,7 @@
 
 **Descripción breve:** interfaz analogica de video.<br><br>
 **Pines/Carriles/Voltajes/Velocidad:** señal analogica, Hasta 2048 × 1536<br>
-**Uso principal:** Monitores, proyectores, televisores antiguos<br>  
+**Uso principal:** Monitores, proyectores, televisores antiguos
 **Compatibilidad actual:** Media (Equipos antiguos)
 
 ## Identificación física
