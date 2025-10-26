@@ -1,7 +1,7 @@
 
 # Conector externo: VGA Video Graphics Array
 
-**Descripción breve:** interfaz analogica de video.<br>
+**Descripción breve:** interfaz analogica de video.<br><br>
 **Pines/Carriles/Voltajes/Velocidad:** señal analogica, Hasta 2048 × 1536<br>
 **Uso principal:** Monitores, proyectores, televisores antiguos<br>  
 **Compatibilidad actual:** Media (Equipos antiguos)
