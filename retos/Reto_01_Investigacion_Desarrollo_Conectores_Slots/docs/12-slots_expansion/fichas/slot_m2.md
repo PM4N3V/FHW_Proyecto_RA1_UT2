@@ -13,7 +13,7 @@
 - Gen 7 en desarollo con velocidades de 31.52 GB/s a 60.50 GB/s .
 
 ## Fotos
-![M.2](../../../assets/img/12-slots_expansion/m2slot.png)
+![M.2](../../../assets/img/12-slots_expansion/m2slot.png "M.2")
 
 ## Fuentes
 - [https://hardzone.es](https://hardzone.es/tutoriales/rendimiento/velocidad-pci-express-pcie/)
