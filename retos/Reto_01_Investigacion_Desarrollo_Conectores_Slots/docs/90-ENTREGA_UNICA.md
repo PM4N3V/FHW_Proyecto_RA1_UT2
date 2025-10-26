@@ -33,7 +33,7 @@ Objetivo del reto: **identificar** y **explicar** conectores/slots **actuales** 
 
 <a id="2-conectores-internos-energia"></a>
 ## 2. Conectores internos (energía)
-(Pega aquí las **fichas** finales de esta sección; incluir una tabla resumen)
+
 # Conector: 12VHPWR 12+4 pins o  12V-2x6
 
 **Descripción breve:** Conector principal que alimenta graficas de ultima generacion.<br> 
@@ -150,7 +150,16 @@ Objetivo del reto: **identificar** y **explicar** conectores/slots **actuales** 
 ![SATA Power](../assets/img/10-conectores_internos/sata_alimentacion.png)
 
 ## Fuentes
-- [https://ibericavip.com](https://ibericavip.com/blog/pc-workstation/guia-para-principiantes-sobre-cables-sata-todo-lo-que-necesitas-saber/)
+- [https://ibericavip.com](https://ibericavip.com/blog/pc-workstation/guia-para-principiantes-sobre-cables-sata-todo-lo-que-necesitas-saber/) <br>
+
+| Conector  | Número de pines  | Voltajes Suministrados  | Uso Principal  | Capacidad de Potencia  | Capacidad de Potencia  |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 12VHPWR   | 12 + 4 pines o 2 de 6 pines  | +12 V | alimentacion de tarjetas graficas de ultima generacion  | hasta  600W | Alta  |
+| ATX de 24 pines  | 24  | +3.3 V, +5 V, +12 V | Alimentación de la placa base  | Hasta 300 W  | Alta  |
+| EPS de 4 y 8 pines  | 4 u 8  | +12 V  | Alimentación del procesador  | Hasta 150 W por conector  | Alta  |
+| Molex  | 4 | +5 V, +12 V  | Alimentación de ventiladores y HDDs antiguos  | Hasta 132 W  | Media (para componentes antiguos)  |
+| PEG de 6 y 8 pines  | 6 u 8  | +12 V  | Alimentación de tarjetas gráficas  | 75 W (6 pines), 150 W (8 pines)  | Alta  |
+| SATA de alimentación  | 15  | +3.3 V, +5 V, +12 V  | Alimentación de HDDs y SSDs  | Hasta 54 W  | Alta  |
 
   
 
