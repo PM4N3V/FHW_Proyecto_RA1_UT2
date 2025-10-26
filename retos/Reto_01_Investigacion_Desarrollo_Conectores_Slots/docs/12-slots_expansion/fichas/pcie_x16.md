@@ -1,7 +1,7 @@
 
 # Slot: PCI Express x16 (Gen4/Gen5/Gen6)
 
-**Descripción breve:** Ranura de expansión de altas prestaciones usada para GPUs/aceleradoras.<br><br>  
+**Descripción breve:** Ranura de expansión de altas prestaciones usada para GPUs/aceleradoras.<br>  
 **Pines/Carriles/Voltajes/Velocidad:** x16 carriles · Gen4 16 GT/s · Gen5 32 GT/s  Gen6 121 GB/s<br>
 **Uso principal:** Tarjetas gráficas; también aceleradoras y NVMe en adaptador  
 **Compatibilidad actual:** Alta
