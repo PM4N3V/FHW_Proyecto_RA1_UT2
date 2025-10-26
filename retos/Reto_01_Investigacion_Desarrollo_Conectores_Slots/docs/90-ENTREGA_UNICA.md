@@ -324,9 +324,9 @@ Objetivo del reto: **identificar** y **explicar** conectores/slots **actuales** 
 ## 5. Conectores externos
 # Conector externo: DisplayPort 1.4-2.x
 
-**Descripción breve:** interfaz digital moderna diseñada para transmitir tanto video como audio de alta calidad.<br>
+**Descripción breve:** interfaz digital moderna diseñada para transmitir tanto video como audio de alta calidad.<br><br>
 **Pines/Carriles/Voltajes/Velocidad:**  1.4  8K a 60 Hz, 2.0 16k a 60Hz o 8k a 120Hz
-**Uso principal:** común en monitores, ordenadores y tarjetas gráficas, especialmente en entornos profesionales y de gaming<br>  
+**Uso principal:** común en monitores, ordenadores y tarjetas gráficas, especialmente en entornos profesionales y de gaming  
 **Compatibilidad actual:** Alta
 
 ## Identificación física
