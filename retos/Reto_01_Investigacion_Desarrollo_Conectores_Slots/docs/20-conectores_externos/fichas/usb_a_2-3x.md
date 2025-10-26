@@ -3,7 +3,7 @@
 
 **Descripción breve:** Conector USB clásico, el más común en ordenadores y periféricos.<br><br>
 **Pines/Carriles/Voltajes/Velocidad:** USB 3.0 0.5A , USB 3.1 0.9A , +5V<br>
-**Uso principal:** Ratones, teclados, discos externos, memorias USB.<br>  
+**Uso principal:** Ratones, teclados, discos externos, memorias USB.  
 **Compatibilidad actual:** Alta 
 
 ## Identificación física
