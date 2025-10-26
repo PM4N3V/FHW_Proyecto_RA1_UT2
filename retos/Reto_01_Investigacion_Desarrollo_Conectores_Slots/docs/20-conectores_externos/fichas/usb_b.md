@@ -1,8 +1,8 @@
 
 # Conector externo: USB-B 
 
-**Descripción breve:** Menos común en dispositivos personales; típico en equipos más grandes.<br>
-**Pines/Carriles/Voltajes/Velocidad:** 5V , 0.5a <br>
+**Descripción breve:** Menos común en dispositivos personales; típico en equipos más grandes.<br><br>
+**Pines/Carriles/Voltajes/Velocidad:** +5V , 0.5a <br>
 **Uso principal:** Impresoras, escáneres, dispositivos industriales <br>
 **Compatibilidad actual:** Media
 
