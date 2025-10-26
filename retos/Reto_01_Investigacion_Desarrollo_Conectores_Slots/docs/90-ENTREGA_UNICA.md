@@ -386,9 +386,9 @@ HDMI 2.2 96 Gbps 12K a 120 Hz, o 4K a 480 fps<br>
 
 # Conector externo: USB-A 
 
-**Descripción breve:** Conector USB clásico, el más común en ordenadores y periféricos.<br>
+**Descripción breve:** Conector USB clásico, el más común en ordenadores y periféricos.<br<br>
 **Pines/Carriles/Voltajes/Velocidad:** USB 3.0 0.5A , USB 3.1 0.9A , 5V<br>
-**Uso principal:** Ratones, teclados, discos externos, memorias USB.<br>  
+**Uso principal:** Ratones, teclados, discos externos, memorias USB.  
 **Compatibilidad actual:** Alta 
 
 ## Identificación física
@@ -448,9 +448,9 @@ HDMI 2.2 96 Gbps 12K a 120 Hz, o 4K a 480 fps<br>
 
 # Conector externo: VGA Video Graphics Array
 
-**Descripción breve:** interfaz analogica de video.<br>
+**Descripción breve:** interfaz analogica de video.<br><br>
 **Pines/Carriles/Voltajes/Velocidad:** señal analogica, Hasta 2048 × 1536<br>
-**Uso principal:** Monitores, proyectores, televisores antiguos<br>  
+**Uso principal:** Monitores, proyectores, televisores antiguos 
 **Compatibilidad actual:** Media (Equipos antiguos)
 
 ## Identificación física
