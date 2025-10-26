@@ -1,7 +1,7 @@
 
 # Conector externo: HDMI (High-Definition Multimedia Interface) 2.1/2.2
 
-**Descripción breve:** Estándar para la transmisión de señales de video y audio de alta calidad.<br>
+**Descripción breve:** Estándar para la transmisión de señales de video y audio de alta calidad.<br><br>
 **Pines/Carriles/Voltajes/Velocidad:**<br> HDMI 2.1 48 Gbps 8K a 120 Hz<br>
 HDMI 2.2 96 Gbps 12K a 120 Hz, o 4K a 480 fps<br>
 **Uso principal:** Transmitir video y audio digital a monitores, televisores o proyectores. <br>
