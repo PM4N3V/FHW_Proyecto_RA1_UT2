@@ -71,7 +71,7 @@ Post nota: Apreciar el tiempo dedicado.
 - Las fuentes de alimentacion antiguas suelen traer solo de 6 pines.
 
 ## Fotos
-![PEG](../assets/img/10-conectores_internos/peg.png)
+![PEG](../assets/img/10-conectores_internos/peg.png "PEG")
 
 ## Fuentes
 - [https://www.geeknetic.es](https://www.geeknetic.es/Conector-PEG/que-es-y-para-que-sirve)
