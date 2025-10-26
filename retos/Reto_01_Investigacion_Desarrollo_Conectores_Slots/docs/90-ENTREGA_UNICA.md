@@ -324,7 +324,7 @@ Objetivo del reto: **identificar** y **explicar** conectores/slots **actuales** 
 ## 5. Conectores externos
 # Conector externo: DisplayPort 1.4-2.x
 
-**Descripción breve:** interfaz digital moderna diseñada para transmitir tanto video como audio de alta calidad.<br><br>
+**Descripción breve:** interfaz digital moderna diseñada para transmitir tanto video como audio de alta calidad.<br>
 **Pines/Carriles/Voltajes/Velocidad:**  1.4  8K a 60 Hz, 2.0 16k a 60Hz o 8k a 120Hz
 **Uso principal:** común en monitores, ordenadores y tarjetas gráficas, especialmente en entornos profesionales y de gaming<br>  
 **Compatibilidad actual:** Alta
@@ -386,7 +386,7 @@ HDMI 2.2 96 Gbps 12K a 120 Hz, o 4K a 480 fps<br>
 
 # Conector externo: USB-A 
 
-**Descripción breve:** Conector USB clásico, el más común en ordenadores y periféricos.<br><br>
+**Descripción breve:** Conector USB clásico, el más común en ordenadores y periféricos.<br>
 **Pines/Carriles/Voltajes/Velocidad:** USB 3.0 0.5A , USB 3.1 0.9A , 5V<br>
 **Uso principal:** Ratones, teclados, discos externos, memorias USB.<br>  
 **Compatibilidad actual:** Alta 
@@ -448,7 +448,7 @@ HDMI 2.2 96 Gbps 12K a 120 Hz, o 4K a 480 fps<br>
 
 # Conector externo: VGA Video Graphics Array
 
-**Descripción breve:** interfaz analogica de video.<br><br>
+**Descripción breve:** interfaz analogica de video.<br>
 **Pines/Carriles/Voltajes/Velocidad:** señal analogica, Hasta 2048 × 1536<br>
 **Uso principal:** Monitores, proyectores, televisores antiguos<br>  
 **Compatibilidad actual:** Media (Equipos antiguos)
